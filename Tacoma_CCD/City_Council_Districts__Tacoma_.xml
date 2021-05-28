@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20120124</pubdate>
+                <title>2012 Councilmanic Districts</title>
+                <onlink>https://gis.cityoftacoma.org/arcgis/rest/services/Basemap/Districts/MapServer/1</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>The Tacoma City Council is comprised of the Mayor and eight Council Members. Five of the Council Members are elected from each of the city's five councilmanic districts. The Mayor and three additional Council Members are elected to city-wide, or at-large, positions. On Nov. 15, 2011, the Tacoma City Council adopted new boundaries for the districts, ensuring each district has nearly equal population without splitting neighborhoods or communities.  Boundaries are effective 2012 through 2021.Councilmanic Districts - City Council DistrictsFINAL READING OF ORDINANCES Ordinance No. 28028 Amending Chapter 1.44 of the Municipal Code, relating to City Council election districts, to amend the councilmanic district boundaries. Cover Agenda: http://cms.cityoftacoma.org/cityclerk/Files/CityCouncil/Agendas/2011/ca20111115.pdfFull Agenda: http://cms.cityoftacoma.org/cityclerk/Files/CityCouncil/Agendas/2011-FullAgendas/Full20111115.pdfVoting Record: http://cms.cityoftacoma.org/cityclerk/Files/CityCouncil/Agendas/2011-VotingRecord/20111115mu.pdf</abstract>
+            <purpose>2012 City Council (Councilmanic) Districts. This dataset is comprised of the eight council districts  which represent nearly equal populations</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20120101</begdate>
+                    <enddate>20201231</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>Unknown</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-122.56</westbc>
+                <eastbc>-122.35</eastbc>
+                <northbc>47.32</northbc>
+                <southbc>47.16</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>councilmanic</themekey>
+                <themekey>district</themekey>
+                <themekey>city council</themekey>
+                <themekey>city council districts</themekey>
+                <themekey>council</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>tacoma</themekey>
+                <themekey>city of tacoma</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>https://geohub.cityoftacoma.org/pages/disclaimer</useconst>
+        <datacred>City of Tacoma</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20180404</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Tacoma Community and Economic Development</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <city>Tacoma</city>
+                    <state>City of Tacoma</state>
+                    <postal>98042</postal>
+                </cntaddr>
+                <cntemail>ngrabins@cityoftacoma.org</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
